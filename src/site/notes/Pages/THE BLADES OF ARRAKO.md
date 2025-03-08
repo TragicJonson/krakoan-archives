@@ -1,0 +1,70 @@
+---
+{"dg-publish":true,"permalink":"/pages/the-blades-of-arrako/","dgShowLocalGraph":true}
+---
+
+
+**WAR**
+MUTANT FROM OKKORA 
+SWORD... VERMILLION (THE RED SWORD OF WAR)
+MUTANT POWER... FIRE
+![Vermillion.png](/img/user/Assets/Vermillion.png)
+
+**SUMMONER**
+(BIRTH NAME STRICKEN FROM RECORD)
+MUTANT FROM [ARAKKO]
+SWORD... COLONY
+MUTANT POWER... INVULNERATBILITY
+NOTE... IS ALSO ONE OF TRAINED HIGH [[Pages/SUMMONERS OF AMENTH\|SUMMONERS OF AMENTH]]
+![Colony.png](/img/user/Assets/Colony.png)
+
+**SOLEM**
+MUTANT FROM [[Pages/ARRAKO\|ARRAKO]]
+SWORD... [[Pages/SWORD, MURAMASA BLADE\|SWORD, MURAMASA BLADE]]
+MUTANT POWER... ADAMANTIUM SKIN
+![Muramasa Blade.png](/img/user/Assets/Muramasa%20Blade.png)
+
+**THE WHITE SWORD OF THE IVORY SPIRE**
+MUTANT FROM [[Pages/ARRAKO\|ARRAKO]]
+SWORD... PURITY
+MUTANT POWER... HEALING
+![Purity.png](/img/user/Assets/Purity.png)
+
+**REDROOT THE FOREST**
+PURE-BLOOD MUTANT
+RECLAIMED FROM AMENTH
+SWORD... ALLUVIUM
+MUTANT POWER... BOTOMANCY
+NOTE... IS ALSO THE VOICE OF [[Pages/ARRAKO\|ARRAKO]]
+![Alluvium.png](/img/user/Assets/Alluvium.png)
+
+**DEATH**
+MUTANT FROM OKKARA
+SWORD... THE BLACK BONE OF AMDUAT
+MUTANT POWER... THE EYES OF DEATH
+![Blackbone.png](/img/user/Assets/Blackbone.png)
+
+**ISCA THE UNBEATEN**
+MUTANT FROM OKKARA
+SWORD... MERCY
+MUTANT POWER... CANNOT LOSE
+![Mercy.png](/img/user/Assets/Mercy.png)
+
+**ANNIHILATION**
+==REDACTED==
+==REDACTED==
+SWORD... THE MIDNIGHT BLADE
+MUTANT POWER... ==REDACTED=
+
+BEI THE BLOOD MOON
+MUTANT FROM [[Pages/ARRAKO\|ARRAKO]]
+SWORD... SEDUCER
+MUTANT POWER... THE DOOM NOTE
+![Seducer.png](/img/user/Assets/Seducer.png)
+
+**POGG UR-POGG**
+A BEAST FROM AMENTH]]
+SWORD... POGG UR-POGG
+MUTANT POWER... NONE
+![Pogg.png](/img/user/Assets/Pogg.png)
+
+#mysticism 
